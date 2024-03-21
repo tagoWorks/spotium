@@ -15,14 +15,14 @@ Spotium does not include any viruses, backdoors, trojans, or any other type of m
 # 🧑‍💻 Building executable file
 
 1. Download pyinstaller
-   ``sh
+   ```sh
    pip install pyinstaller
-   ``
+   ```
    
 2. Convert py to executable
-   ``sh
+   ```sh
    pyinstaller --noconfirm --onefile --windowed --icon "icon.ico" --add-data "menu;menu/"  "Spotium.py"
-   ``
+   ```
 
 # License & Information 📃
 This project is published under the [MIT license](./LICENSE)
