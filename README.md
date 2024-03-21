@@ -3,9 +3,9 @@
     </a>
     <br />
 
-   ![GitHub last commit](https://img.shields.io/github/last-commit/tagoworks/vlod)
-   ![GitHub issues](https://img.shields.io/github/issues-raw/tagoworks/vlod)
-   ![GitHub](https://img.shields.io/github/license/tagoworks/vlod)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/tagoworks/spotium)
+   ![GitHub issues](https://img.shields.io/github/issues-raw/tagoworks/spotium)
+   ![GitHub](https://img.shields.io/github/license/tagoworks/spotium)
 
    *there is definitely an easier way to make a tkinter menu but idc*
 
