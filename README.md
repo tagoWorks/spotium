@@ -10,7 +10,7 @@
 
 </div>
 
-Spotium does not include any viruses, backdoors, trojans, or any other type of malicious software or code. Additionally, Spotium rarely updates but when it does it is important, Spotium checks for updates automatically. You can view the latest Spotium files VirusTotal result for windows and for macOS. In May of 2023 Spotium was put to a stop since Spotify had fixed the method it used, special thanks to [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) for the new working method that Spotium currently employs. Spotium has gone open source to further prove this, and allow the community to contribute. 
+Spotium does not include any viruses, backdoors, trojans, or any other type of malicious software or code. Additionally, Spotium rarely updates but when it does it is important, Spotium checks for updates automatically. You can view the latest Spotium files VirusTotal result for windows and for macOS. In May of 2023 Spotium was put to a stop since Spotify had fixed the method it used, special thanks to [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) for the inspiration for the new method which Spotium employs. Spotium has gone open source to further prove this, and allow the community to contribute. 
 
 # Building executable file 🧑‍💻
 
