@@ -27,4 +27,4 @@ Spotium does not include any viruses, backdoors, trojans, or any other type of m
 # License & Information 📃
 This project is published under the [Apache License Version 2.0 License](./LICENSE)
 
-If you are interested in working together, or want to get in contact with me please email me at santiagobuisnessmail@gmail.com
+If you are interested in working together, or want to get in contact with me please email me at santiago@tago.works
